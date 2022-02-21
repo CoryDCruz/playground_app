@@ -45,4 +45,7 @@ Model View Controller (MVC) - Rails App Structure
 - Views make up the visible layer of your app. What the users will see. (html, CSS, JS) 
 - Controllers are the brains behind the app. Logic for how things operate to user interaction 
 
-Structure of a Rails Application 
+Version Control with Git 
+git add -A # track application
+git status 
+git commit -m ""
